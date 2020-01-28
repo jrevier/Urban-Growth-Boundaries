@@ -1,0 +1,101 @@
+City,State,StateFIPS,Place FIPS
+New York City,New York,36,51000
+Los Angeles,California,06,44000
+Chicago,Illinois,17,14000
+Houston,Texas,48,35000
+Phoenix,Arizona,04,55000
+Philadelphia,Pennsylvania,42,60000
+San Antonio,Texas,48,65000
+San Diego,California,06,66000
+Dallas,Texas,48,19000
+San Jose,California,06,68000
+Austin,Texas,48,05000
+Jacksonville,Florida,12,35000
+Fort Worth,Texas,48,27000
+Columbus,Ohio,39,18000
+San Francisco,California,06,67000
+Charlotte,North Carolina,37,12000
+Indianapolis,Indiana,18,36003
+Seattle,Washington,53,63000
+Denver,Colorado,08,20000
+Washington,District of Columbia,11,50000
+Boston,Massachusetts,25,07000
+El Paso,Texas,48,24000
+Detroit,Michigan,26,22000
+Nashville,Tennessee,47,52006
+Portland,Oregon,41,59000
+Memphis,Tennessee,47,48000
+Oklahoma City,Oklahoma,40,55000
+Las Vegas,Nevada,32,40000
+Louisville,Kentucky,21,48006
+Baltimore,Maryland,24,04000
+Milwaukee,Wisconsin,55,53000
+Albuquerque,New Mexico,35,02000
+Tucson,Arizona,04,77000
+Fresno,California,06,27000
+Mesa,Arizona,04,46000
+Sacramento,California,06,64000
+Atlanta,Georgia,13,04000
+Kansas City,Missouri,29,38000
+Colorado Springs,Colorado,08,16000
+Miami,Florida,12,45000
+Raleigh,North Carolina,37,55000
+Omaha,Nebraska,31,37000
+Long Beach,California,06,43000
+Virginia Beach,Virginia,51,82000
+Oakland,California,06,53000
+Minneapolis,Minnesota,27,43000
+Tulsa,Oklahoma,40,75000
+Arlington,Texas,48,04000
+Tampa,Florida,12,71000
+New Orleans,Louisiana,22,55000
+Wichita,Kansas,20,79000
+Cleveland,Ohio,39,16000
+Bakersfield,California,06,03526
+Aurora,Colorado,08,04000
+Anaheim,California,06,02000
+Honolulu,Hawaii,15,71550
+Santa Ana,California,06,69000
+Riverside,California,06,62000
+Corpus Christi,Texas,48,17000
+Lexington,Kentucky,21,46027
+Stockton,California,06,75000
+Henderson,Nevada,32,31900
+St. Paul,Minnesota,27,58000
+St. Louis,Missouri,29,65000
+Cincinnati,Ohio,39,15000
+Pittsburgh,Pennsylvania,42,61000
+Greensboro,North Carolina,37,28000
+Anchorage,Alaska,02,03000
+Plano,Texas,48,58016
+Lincoln,Nebraska,31,28000
+Orlando,Florida,12,53000
+Irvine,California,06,36770
+Newark,New Jersey,34,51000
+Toledo,Ohio,39,77000
+Durham,North Carolina,37,19000
+Chula Vista,California,06,13392
+Fort Wayne,Indiana,18,25000
+Jersey City,New Jersey,34,36000
+St. Petersburg,Florida,12,63000
+Laredo,Texas,48,41464
+Madison,Wisconsin,55,48000
+Chandler,Arizona,04,12000
+Buffalo,New York,36,11000
+Lubbock,Texas,48,45000
+Scottsdale,Arizona,04,65000
+Reno,Nevada,32,60600
+Glendale,Arizona,04,27820
+Gilbert,Arizona,04,27400
+Winston-Salem,North Carolina,37,75000
+North Las Vegas,Nevada,32,51800
+Norfolk,Virginia,51,57000
+Chesapeake,Virginia,51,16000
+Garland,Texas,48,29000
+Irving,Texas,48,37000
+Hialeah,Florida,12,30000
+Fremont,California,06,26000
+Boise City,Idaho,16,08830
+Richmond,Virginia,51,67000
+Baton Rouge,Louisiana,22,05000
+Spokane,Washington,53,67000
