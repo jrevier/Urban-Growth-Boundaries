@@ -1,2 +1,2 @@
 # Urban-Growth-Boundaries
-This is a repository for Project 1 
+A data story on living differences in cities with an Urban Growth Boundary.
