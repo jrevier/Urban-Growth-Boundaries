@@ -1,5 +1,0 @@
-API codes: 
-
-B08130-001E - Transportation
-B25024 -001E - Housing 
-B01001-001E - Population 
